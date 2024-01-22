@@ -1,0 +1,32 @@
+/* css style */
+
+body {
+    background-color: bisque;
+}
+
+.drink,
+.soup,
+.skyr {
+    color: green;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+
+}
+
+
+ p {
+    font-size: 20px;
+
+
+}
+
+h3 {
+    font-size: 25px;
+    color: darkgreen;
+}
+
+ol,
+ul {
+    font-weight: bold;
+}

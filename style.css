@@ -1,0 +1,30 @@
+/* ccs style sheet */
+
+.body {
+    background-color: burlywood;
+    
+}
+
+ .title {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+
+ }
+
+ .discription {
+    font-style: italic;
+    font-size: 30px;
+
+ }
+
+ a {
+    font-weight: bold;
+    font-size: 25px;
+    color: red;
+    background-color: black;
+ }
+
+ .drink {
+   color: green;
+ }
